@@ -1,0 +1,3 @@
+pip install pydantic[dotenv]
+pip install -U --pre aiogram
+https://impulsfm.ru/Impuls/
